@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakyaSangam&layout=compact)](https://github.com/ShakyaSangam/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShakyaSangam&theme=onedark)](https://github.com/ShakyaSangam/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShakyaSangam)

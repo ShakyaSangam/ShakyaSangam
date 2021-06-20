@@ -1,4 +1,4 @@
-## Hello, I'm [Sangam Shakya!] 👋 ##YO
+## Hello, I'm [Sangam Shakya!] 👋 YO
 
 ## Flutter Developer
 
